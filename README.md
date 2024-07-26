@@ -60,9 +60,6 @@ CGPA after 2 semesters: 3.40
 Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Replace `https://github.com/Areeba0317/CGPA-Calculator.git`
 
 
